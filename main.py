@@ -1,3 +1,5 @@
+""" Firstly we import packages such as pygame() and mixer() from python library"""
+
 import pygame
 from pygame import mixer
 pygame.init()
